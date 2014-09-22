@@ -3,32 +3,20 @@
 local Gin = require 'gin.core.gin'
 
 local help_description = [[
-
-           /++++/:
-           NNNNNmm
-           mNNMNmy
-          .dNMMNms`
-      .:+sydMMMMMdyo/-`
-   `sdmmmNNNMMMMMNmdhhddo
-   `dMMNNMMMMMMMMMNdhdMMy
-   `dMMMNMMMMdsymMNdhdNMy
-   `dMMMNNho-....:shhdNMy
-   `dMMdo-......`.``:sNMy
-   `dd/........-..````-hy
-   `:...--.`----..`````.-
-   ``//+-  G  I  N  .+-/`
-   `:..-..``-...-.`.`.``-
-   `hs-```-./.:`-/`.```os
-   `hNms-.``.-.-.````+mmy
-   `hNNNNh+.-:---`-smNNmy
-   `hNNNMMMNy+.:sdNNNNNmy`
-   `dNNNNMMMMMNNNNNNNNNNy`
-   `hNNNNNMMMMMMMMNNmNNNy`
-    ./osyhhddddddhhyss+:`
-
-GIN v]] .. Gin.version .. [[, a JSON-API web framework.
-
+GIN v]] .. Gin.version .. [[, a JSON-API web framework. 
 Usage: gin COMMAND [ARGS] [OPTIONS]
+ 
+     !==!                 
+     !  !                
+   .'    `.                    
+  /        \     
+ |----------|             
+ |   ----   |             
+ |  GIN.IO  |             
+ |   ----   |             
+ |          |             
+ |  v0.1.4  |             
+ `----------'             
 
 The available gin commands are:
  new [name]             Create a new Gin application
